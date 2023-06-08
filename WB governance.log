@@ -1,0 +1,46 @@
+2023-06-06 11:18:21,933 - #############getting data by downloading from https://info.worldbank.org/governance/wgi/#home ##############
+2023-06-06 11:18:22,734 - request status code for the main url 200
+2023-06-06 11:18:26,021 - Download request is status code is 200
+2023-06-06 11:18:26,034 - successfuly downloaded bulk excel file
+2023-06-06 11:18:26,034 - ---------------------------------------------------
+2023-06-06 11:18:31,697 - processing sheet VoiceandAccountability
+2023-06-06 11:18:32,298 - wide dataframe for VoiceandAccountability has 214 rows
+2023-06-06 11:18:32,307 - sheet VoiceandAccountability succesfully reshaped to long with 9844 rows
+2023-06-06 11:18:32,308 - sheet VoiceandAccountability is appended successfully
+2023-06-06 11:18:32,308 - Governance_total has 9844 rows
+2023-06-06 11:18:32,308 - ---------------------------------------------------------
+2023-06-06 11:18:32,308 - processing sheet Political StabilityNoViolence
+2023-06-06 11:18:32,754 - wide dataframe for Political StabilityNoViolence has 214 rows
+2023-06-06 11:18:32,762 - sheet Political StabilityNoViolence succesfully reshaped to long with 9844 rows
+2023-06-06 11:18:32,763 - sheet Political StabilityNoViolence is appended successfully
+2023-06-06 11:18:32,763 - Governance_total has 19688 rows
+2023-06-06 11:18:32,763 - ---------------------------------------------------------
+2023-06-06 11:18:32,764 - processing sheet GovernmentEffectiveness
+2023-06-06 11:18:33,185 - wide dataframe for GovernmentEffectiveness has 214 rows
+2023-06-06 11:18:33,191 - sheet GovernmentEffectiveness succesfully reshaped to long with 9844 rows
+2023-06-06 11:18:33,196 - sheet GovernmentEffectiveness is appended successfully
+2023-06-06 11:18:33,196 - Governance_total has 29532 rows
+2023-06-06 11:18:33,196 - ---------------------------------------------------------
+2023-06-06 11:18:33,196 - processing sheet RegulatoryQuality
+2023-06-06 11:18:33,619 - wide dataframe for RegulatoryQuality has 214 rows
+2023-06-06 11:18:33,628 - sheet RegulatoryQuality succesfully reshaped to long with 9844 rows
+2023-06-06 11:18:33,631 - sheet RegulatoryQuality is appended successfully
+2023-06-06 11:18:33,631 - Governance_total has 39376 rows
+2023-06-06 11:18:33,631 - ---------------------------------------------------------
+2023-06-06 11:18:33,631 - processing sheet RuleofLaw
+2023-06-06 11:18:34,046 - wide dataframe for RuleofLaw has 214 rows
+2023-06-06 11:18:34,056 - sheet RuleofLaw succesfully reshaped to long with 9844 rows
+2023-06-06 11:18:34,060 - sheet RuleofLaw is appended successfully
+2023-06-06 11:18:34,060 - Governance_total has 49220 rows
+2023-06-06 11:18:34,061 - ---------------------------------------------------------
+2023-06-06 11:18:34,061 - processing sheet ControlofCorruption
+2023-06-06 11:18:34,487 - wide dataframe for ControlofCorruption has 214 rows
+2023-06-06 11:18:34,493 - sheet ControlofCorruption succesfully reshaped to long with 9844 rows
+2023-06-06 11:18:34,498 - sheet ControlofCorruption is appended successfully
+2023-06-06 11:18:34,498 - Governance_total has 59064 rows
+2023-06-06 11:18:34,499 - ---------------------------------------------------------
+2023-06-06 11:18:55,649 - #############getting data from ISPAR##############
+2023-06-06 11:18:58,692 - dataframe returned with 43538 rows
+2023-06-06 11:18:59,220 - dataframe for Arab countries returned with 3039 rows
+2023-06-06 11:18:59,262 - groupby.aggregate() successful and saved as ISPAR_AGGREGATED.xlsx
+2023-06-06 11:19:05,855 - #############getting data from Worldbank  TCdata360##############
